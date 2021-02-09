@@ -20,16 +20,27 @@ o	SOMOS VERITY_
 o	Agentes da transformação inspirando protagonismo nas pessoas e gerando resultados para organizações. 
  
 Cenário 2: 
+
 •	Acesse o site da Verity - verity.com.br 
+
 •	Click no Menu “Verity Lab” e valide novamente os seguintes títulos: 
+
 o	Conteúdo Exclusivo 
+
 o	VERITY LAB 
+
 •	Preencher nesta tela os seguintes campos (preferencialmente com seus dados pessoais): 
+
 	Nome Completo 
+
 	Empresa 
+
 	E-mail  
+
 	Telefone 
+
 	Clicar no checkbox; 
+
 	Clicar no botão - Participar 
 
 
