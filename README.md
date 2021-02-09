@@ -11,13 +11,13 @@
 
 •	Realize a validação dos títulos abaixo para garantir que esses elementos serão encontrados: 
 
-o	SOMOS HUMANOS 
+•	SOMOS HUMANOS 
 
-o	SOMOS DIGITAIS 
+•	SOMOS DIGITAIS 
 
-o	SOMOS VERITY_ 
+•	SOMOS VERITY_ 
 
-o	Agentes da transformação inspirando protagonismo nas pessoas e gerando resultados para organizações. 
+•	Agentes da transformação inspirando protagonismo nas pessoas e gerando resultados para organizações. 
  
 # Cenário 2: 
 
@@ -25,23 +25,23 @@ o	Agentes da transformação inspirando protagonismo nas pessoas e gerando resul
 
 •	Click no Menu “Verity Lab” e valide novamente os seguintes títulos: 
 
-o	Conteúdo Exclusivo 
+•	Conteúdo Exclusivo 
 
-o	VERITY LAB 
+•	VERITY LAB 
 
 •	Preencher nesta tela os seguintes campos (preferencialmente com seus dados pessoais): 
 
-	Nome Completo 
+•	Nome Completo 
 
-	Empresa 
+•	Empresa 
 
-	E-mail  
+•	E-mail  
 
-	Telefone 
+•	Telefone 
 
-	Clicar no checkbox; 
+•	Clicar no checkbox; 
 
-	Clicar no botão - Participar 
+•	Clicar no botão - Participar 
 
 
 
