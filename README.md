@@ -5,7 +5,7 @@
 # Dado os 2 cenários abaixo, escreva seu respectivo script de teste na linguagem Java/Ruby. Crie o projeto no seu próprio GIT e disponibilize para nós. 
 
 
-Cenário 1: 
+# Cenário 1: 
 
 •	Acesse o site da Verity - verity.com.br 
 
@@ -19,7 +19,7 @@ o	SOMOS VERITY_
 
 o	Agentes da transformação inspirando protagonismo nas pessoas e gerando resultados para organizações. 
  
-Cenário 2: 
+# Cenário 2: 
 
 •	Acesse o site da Verity - verity.com.br 
 
