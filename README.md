@@ -6,11 +6,17 @@
 
 
 Cenário 1: 
+
 •	Acesse o site da Verity - verity.com.br 
+
 •	Realize a validação dos títulos abaixo para garantir que esses elementos serão encontrados: 
+
 o	SOMOS HUMANOS 
+
 o	SOMOS DIGITAIS 
+
 o	SOMOS VERITY_ 
+
 o	Agentes da transformação inspirando protagonismo nas pessoas e gerando resultados para organizações. 
  
 Cenário 2: 
