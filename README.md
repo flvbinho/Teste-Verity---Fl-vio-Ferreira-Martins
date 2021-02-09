@@ -2,7 +2,9 @@
 
 
 
-1.	Dado os 2 cenários abaixo, escreva seu respectivo script de teste na linguagem Java/Ruby. Crie o projeto no seu próprio GIT e disponibilize para nós.  
+1.	Dado os 2 cenários abaixo, escreva seu respectivo script de teste na linguagem Java/Ruby. Crie o projeto no seu próprio GIT e disponibilize para nós. 
+
+
 Cenário 1: 
 •	Acesse o site da Verity - verity.com.br 
 •	Realize a validação dos títulos abaixo para garantir que esses elementos serão encontrados: 
