@@ -23,22 +23,22 @@ class TestPage {
 
 
       ValidarSomosHumanos() {
-          cy.get(testelements.SomosHumanos()).contains("SOMOS HUMANOS").click()
+          cy.get(testelements.SomosHumanos()).contains("SOMOS HUMANOS").should('to.have.length', 1)
           cy.wait(2000)
       }
 
       ValidarSomosDigitais() {
-          cy.get(testelements.SomosDigitais()).contains("SOMOS DIGITAIS").click()
+          cy.get(testelements.SomosDigitais()).contains("SOMOS DIGITAIS").should('to.have.length', 1)
           cy.wait(2000)
       }
 
       ValidarSomosVerity() {
-          cy.get(testelements.SomosVerity()).contains("SOMOS VERITY_").click()
+          cy.get(testelements.SomosVerity()).contains("SOMOS VERITY_").should('to.have.length', 1)
           cy.wait(2000)
       }
 
       ValidarAgenteTransformação() {
-          cy.get(testelements.AgenteTransformação()).contains("Agentes de transformação inspirando protagonismo nas pessoas e gerando resultados para organizações.").click()
+          cy.get(testelements.AgenteTransformação()).contains("Agentes de transformação inspirando protagonismo nas pessoas e gerando resultados para organizações.").should('to.have.length', 1)
           cy.wait(2000)
       }
 
@@ -51,12 +51,12 @@ class TestPage {
       }
 
       ValidarConteúdoExclusivo() {
-          cy.get(testelements.ConteúdoExclusivo()).contains("Conteúdo exclusivo").click()
+          cy.get(testelements.ConteúdoExclusivo()).contains("Conteúdo exclusivo").should('to.have.length', 1)
           cy.wait(2000)
       }
 
       ValidarVerityLab() {
-          cy.get(testelements.VerityLab()).contains("VERITY LAB").click()
+          cy.get(testelements.VerityLab()).contains("VERITY LAB").should('to.have.length', 1)
           cy.wait(2000)
       }
 
